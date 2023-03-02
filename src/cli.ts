@@ -7,7 +7,7 @@ const program = new Command()
 
 program
   .version(version)
-  .name('pz-mod')
+  .name('pzmod')
   .option('-d, --debug', 'enables verbose logging', false)
   .parse(process.argv)
 
