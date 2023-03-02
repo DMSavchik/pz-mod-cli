@@ -1,7 +1,7 @@
 {
-  "name": "typescript-npm-cli-template",
+  "name": "pz-mod-cli",
   "version": "0.0.0-development",
-  "description": "A template for creating npm CLI tools using TypeScript and VSCode",
+  "description": "The CLI for simplifying the development of Project Zomboid modes. Written using TypeScript and VSCode",
   "files": [
     "!lib/__tests__/**/*",
     "lib/**/*",
@@ -28,9 +28,9 @@
   },
   "license": "MIT",
   "author": {
-    "name": "Ryan Sonshine",
-    "email": "ryansonshine@users.noreply.github.com",
-    "url": "https://github.com/ryansonshine"
+    "name": "Dmytrii Savchyk",
+    "email": "feedback@fringe.zone",
+    "url": "https://github.com/DMSavchyk"
   },
   "engines": {
     "node": ">=12.0"
@@ -48,9 +48,9 @@
     "codecov"
   ],
   "bugs": {
-    "url": "https://github.com/ryansonshine/typescript-npm-cli-template/issues"
+    "url": "https://github.com/DMSavchik/pz-mod-cli/issues"
   },
-  "homepage": "https://github.com/ryansonshine/typescript-npm-cli-template#readme",
+  "homepage": "https://github.com/DMSavchik/pz-mod-cli#readme",
   "dependencies": {
     "commander": "^7.2.0"
   },
