@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ryansonshine/typescript-npm-cli-template.git"
+    "url": "git+https://github.com/DMSavchik/pz-mod-cli.git"
   },
   "license": "MIT",
   "author": {
@@ -36,16 +36,10 @@
     "node": ">=12.0"
   },
   "keywords": [
-    "boilerplate",
+    "project-zomboid",
     "cli",
-    "template",
     "typescript",
-    "vscode",
-    "jest",
-    "husky",
-    "commitizen",
-    "semantic-release",
-    "codecov"
+    "vscode"
   ],
   "bugs": {
     "url": "https://github.com/DMSavchik/pz-mod-cli/issues"
