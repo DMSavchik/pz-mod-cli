@@ -38,7 +38,7 @@ Examples:
 [npm-img]: https://img.shields.io/npm/v/typescript-npm-cli-template
 [npm-url]: https://www.npmjs.com/package/typescript-npm-cli-template
 [issues-img]: https://img.shields.io/github/issues/ryansonshine/typescript-npm-cli-template
-[issues-url]: https://github.com/ryansonshine/typescript-npm-cli-template/issues
+[issues-url]: https://github.com/DMSavchik/pz-mod-cli/issues
 [codecov-img]: https://codecov.io/gh/ryansonshine/typescript-npm-cli-template/branch/main/graph/badge.svg
 [codecov-url]: https://codecov.io/gh/ryansonshine/typescript-npm-cli-template
 [semantic-release-img]: https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg
